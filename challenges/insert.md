@@ -1,3 +1,3 @@
 
-
-![output](../img/Untitled.png)
+## challenge 2
+![class2](./class2.png)

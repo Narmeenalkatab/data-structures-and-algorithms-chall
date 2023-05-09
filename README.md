@@ -4,4 +4,4 @@
 ## Challenges
 
 
- 2 - [array-insert-shift](./challenges/array_reverse.md)
+ 2 - [array-insert-shift](./challenges/insert.md)
