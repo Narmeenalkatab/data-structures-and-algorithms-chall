@@ -1,4 +1,4 @@
-# Binary-Search Challenge
+# Class03: Binary-Search Challenge
 ****
 **Summary:**
 The binary_search function is an efficient algorithm for finding the position of a target value within a sorted array.
@@ -6,6 +6,7 @@ The binary_search function is an efficient algorithm for finding the position of
 **Description:**
 The binary_search function takes in two parameters: arr (the sorted array) and target (the value to be searched for). It returns the index of the target value in the array if it is found, or -1 if it is not present.
 **Whiteboard  for this challenege:**
+
 ![whiteboard](./class3.png)
 *********
 
