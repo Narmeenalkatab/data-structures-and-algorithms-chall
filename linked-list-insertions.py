@@ -102,4 +102,3 @@ def test_insert_after():
     ll.insert_after(2, 4)
     assert str(ll) == "{ 1 } -> { 2 } -> { 4 } -> { 3 } -> NULL"
 
-    # Test inserting a value after a non-existent node
