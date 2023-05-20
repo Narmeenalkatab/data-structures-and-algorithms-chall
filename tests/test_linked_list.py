@@ -1,6 +1,6 @@
 import pytest
 
-from linked_list import LinkedList,Node
+from codes.linked_list import LinkedList,Node
 
 def test_empty_list():
     ll = LinkedList()
